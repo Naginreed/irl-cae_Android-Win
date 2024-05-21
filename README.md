@@ -323,14 +323,14 @@ Following is an Explanation on what Scene is used for what and what People norma
 > Before **every** IRL-Stream you need to do the following
 
 6.a - **Start** your **PC** at Home an make sure it has a Internet Connection and that the PC doesn't turn off automatically  
-6.b - **Start OBS & NOALBS** on your PC
+6.b - **Start OBS & NOALBS** on your PC  
 6.c - **Go outside** to where you want to start your IRL-Stream  
 6.d - Enter **!start** in **Twitch-Chat** to start Stream to Twitch  
 6.e - **Start Stream in IRL Pro** -> after a few seconds you are switched to Live-Scene  
-6.f - **Stop Stream in IRL Pro** or loose connections -> after a few seconds you are switched to Disconnected  
+6.f - If you stop or loose connections on the Phone -> after a few seconds you are switched to Disconnected  
 6.g - As soon as connection from Phone to PC is restored -> after a few seconds you are switched back to Live  
-6.h - Switch to Privacy and back with Chat commands `!brb` and `!live`  
-6.i - **Stop the Stream** automatically if you raid someone or with Chat commands `!stop`  
+6.h - Switch to Privacy and back manually with Chat commands `!brb` and `!live`  
+6.i - **Stop the Stream** automatically only if you raid someone or with Chat command `!stop`  
 
 > [!IMPORTANT]  
 > With every Scene Change in OBS you will see a text Message in Chat
@@ -348,21 +348,23 @@ Either a Mobile WiFi Router or a Second Phone with Mobile Hotspot active.
 ---
 # 8 - Stream directly to twitch  
 
-If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.
-7.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**
+If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.  
 
+7.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**  
+<details>
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/452ea3a0-76e7-4cf1-8f16-4e9f531f2923" height="600">
-<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/45b2d58a-e62e-426f-bc2c-e0af3e1d582b" height="600">
-
-7.a - Go back to **Settings** then **Video**. Scroll down and turn **Bitrate matches resolution** back on and **Format** to Auto
-
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/45b2d58a-e62e-426f-bc2c-e0af3e1d582b" height="600"> 
+</details>
+7.b - Go back to **Settings** then **Video**. Scroll down and turn **Bitrate matches resolution** back on and **Format** to Auto.  
+<details>
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/011c5d28-461d-4c5a-a0ff-9f09bcf24de6" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/f2bbe20d-c1d8-408f-90c0-7e54a56b2936" height="600">
+</details>
 
 ---
 # 9 - Additional Help  
 ### IRL App 
-Here is their [Discord]([https://discord.gg/Tm6kf778](https://discord.gg/irlpro))
+Here is their [Discord](https://discord.gg/irlpro)
 ### OBS 
 you can check their [Forum](https://obsproject.com/forum/) or just look up one of the hundreds of Youtube Tutorials
 ### NOALBS
