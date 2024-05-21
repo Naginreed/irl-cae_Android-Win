@@ -46,6 +46,8 @@ This Guide describes a **Cheap and Easy** Solution for
 
 1.a - Install the **[IRL Pro](https://play.google.com/store/apps/details?id=app.irlpro.android)** from the Google Play Store
 
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/a762e027-b75a-4d72-9667-12f7b032b98c" height="400">
+
 ---
 # 2 - SRT/SRTLA Relay
 
@@ -81,20 +83,35 @@ This Guide describes a **Cheap and Easy** Solution for
 
 2.f - Scroll down until you see **IRL Pro Settings** and tap the **Add automatically to IRL** Button to automatically add the right Info in IRL Pro.  
 
-<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/7a809264-9ab9-4508-8416-7849e18a7009" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/70b33a1d-eea9-4590-86b7-2df757d14fc0" height="600">
 
 ---
 # 3 - Streaming Phone
 3.a - Open the **IRL Pro App** and go to **Gear** Symbol *(Settings)* on the top right  
 
-<img src="https://github.com/Naginreed/irl-cae-setup-ioS/assets/71943093/f0723f0a-53a1-441d-990c-00a88d0349f3" width="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/626275d4-07ad-4d98-bc62-d89d06ec9624" width="600">
 
 3.b - Go to **Connections** where you should see the **Belabox Cloud**. Tap on **New connection**.  
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/7d4997bb-1b4d-412e-89b2-d06f12ec8516" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/d5471b2e-eb11-4020-a84c-9a6fcdd3c3dc" height="600">
+
 3.c - Tap on **TWITCH.TV** on top and fill out your Username and your [Streamkey](https://dashboard.twitch.tv/settings/stream) and hit save  
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/be697be2-845b-4fa9-b936-79a472b474bf" height="600">
+
 3.d - Go back to the Menu and tap **Streamer**
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/7563e4e2-010c-4dc5-8b4e-3b8ec58db229" height="600">
+
 3.e - Tap **Twitch Username** and add your Username and ok. Scroll down and enter your [Streamlabs API Key](https://streamlabs.com/dashboard#/settings/api-settings). *(If you ever need to change any Chat settings go here again)*
 
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/4883fb7a-0038-4426-b2de-c9c245f83e16" height="600">
+
 3.f - Go back to the Menu and tap **Video**
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/06bd7f40-ca4d-487c-b084-8e1a190e2bde" height="600">
+
 3.g - Go to **Video** and set the following settings  
  - **Resolution:** 1920x1080p 
  - **FPS:** 30 fixed rate  
@@ -102,7 +119,14 @@ This Guide describes a **Cheap and Easy** Solution for
  - **Bitrate:** 4500 kbps  
  - **Format:** HEVC  
 
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/e6166d54-aa8a-4301-8afb-3a4684428f9f" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/eece480d-b620-42a5-825e-28f1b5d7b701" height="600">
+
 3.h - Go back to the Menu and tap **Overlays** then to **Web Overlays**  
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/1a04874c-6158-4af1-acbb-1825b638acd4" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/8bab03e7-7b0d-4ad8-a96a-3e4ec995a504" height="600">
+
 3.i - We wanna add Alerts to IRL Pro. To do this we go to into our Alerts Dashboard via Browser  
  - [Streamlabs](https://streamlabs.com/dashboard#/alertbox) and copy the Widget URL
 
@@ -115,16 +139,25 @@ This Guide describes a **Cheap and Easy** Solution for
  - **Width:** 600
  - **Height:** 400  
 *(you change here later if the Alerts are wrong size or position)*  
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/c793f03a-6526-4cf1-8ca6-b10b15570d00" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/436e5036-a8f9-44e2-9fb6-c7e5af1d3e06" height="600">
+
 3.k - Once you saved, check that Alerts is turned on.
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/6bde279b-c60f-4e59-a8a6-90edfbf6685d" height="600">
+
 3.l - Go back to the **Main View** and **check** that **Chat** is loading and Test that **Alerts** are **working** 
  - Streamlabs *(Test-Alerts are available in the [Alertbox](https://streamlabs.com/dashboard#/alertbox))*  
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/80417b7c-d629-44ac-b3ad-013e5eaf0842" width="600">
 
 ---
 # 4 - Windows-PC
 Any normal PC or Laptop can be used, best cabled directly to your Home Internet Router.
  If you want to buy a new one just for this task, maybe look into Mini-Pc's.
-> [!NOTE]  
-> This PC needs to have a STABLE Internet Connection during the whole stream with at least 6Mbit Upload *[Speedtest](https://www.nperf.com)*
+> [!WARNING]  
+> This PC needs to have a **STABLE** Internet Connection during the whole stream with at least 6Mbit Upload *[Speedtest](https://www.nperf.com)*
 
 ## 4.1 OBS
 > [!NOTE]  
@@ -312,6 +345,19 @@ Either a Mobile WiFi Router or a Second Phone with Mobile Hotspot active.
 > [!IMPORTANT]  
 > For this second SIM a different Provider is highly recommended.
 > The 2nd Sim will also consume about ~50% of the overall Data
+---
+# 8 - Streaming directly to twitch  
+
+If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.
+7.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/452ea3a0-76e7-4cf1-8f16-4e9f531f2923" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/45b2d58a-e62e-426f-bc2c-e0af3e1d582b" height="600">
+
+7.a - Go back to **Settings** then **Video**. Scroll down and turn **Bitrate matches resolution** back on and **Format** to Auto
+
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/011c5d28-461d-4c5a-a0ff-9f09bcf24de6" height="600">
+<img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/f2bbe20d-c1d8-408f-90c0-7e54a56b2936" height="600">
 
 ---
 # 9 - Additional Help  
