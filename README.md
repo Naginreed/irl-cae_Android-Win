@@ -346,7 +346,7 @@ Either a Mobile WiFi Router or a Second Phone with Mobile Hotspot active.
 > For this second SIM a different Provider is highly recommended.
 > The 2nd Sim will also consume about ~50% of the overall Data
 ---
-# 8 - Streaming directly to twitch  
+# 8 - Stream directly to twitch  
 
 If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.
 7.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**
