@@ -26,7 +26,7 @@
     "streamServer": {
       "type": "Belabox",
       "statsUrl": "REPLACE_BELLABOX_URL",
-      "publisher": "REPLACE_OBS_WEBSOCKET_PASSWORD"
+      "publisher": "REPLACE_BELLABOX_INGEST_KEY"
     },
     "name": "BELABOX cloud",
     "priority": 0
@@ -99,7 +99,7 @@
   "optionalScenes": {
     "starting": "Starting",
     "ending": "Ending",
-    "privacy": "Break",
+    "privacy": "Privacy",
     "refresh": "Refresh"
   },
   "optionalOptions": {
