@@ -55,7 +55,7 @@ This Guide describes a **Cheap and Easy** Solution for
 > This Server takes the Two SRTLA Streams and combines them into one SRT Stream as seen on [Map](#map)
 
 > [!IMPORTANT]   
-> This Service costs $10 USD.
+> This Service costs USD $10/month
 
 2.a - Create an Account with [Github](https://github.com/signup) *(If you already have one skip to Login)*
  - You then need to Verify your E-Mail Address and [Login](https://github.com/login)
@@ -231,17 +231,15 @@ Any normal PC or Laptop can be used, best cabled directly to your Home Internet 
 ---
 ## 4.2 NOALBS
 > [!NOTE]  
-> This is the Program controls OBS via Chat-Commands and automatically switches Scenes if Stream from the Phone is detected
+> This is the Program that controls OBS via Chat-Commands and automatically switches Scenes if Stream from the Phone is detected or lost
 
 4.2.a - **Download [NOALBS](https://github.com/NOALBS/nginx-obs-automatic-low-bitrate-switching/releases)** for your System and unpack them to a location of your liking *(i recommend making a Stream and then a NOALBS Sub-Folder)*  
-4.2.b - Inside this Folder you should have at least 3 files (4 for [MAC](#421-noalbs-on-mac))  
+4.2.b - Inside this Folder you should have now the following 3 files
  - .env
  - config.json
  - noalbs
 
-<img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/98043a2b-2497-40af-88c7-873ce2d85848" height="100">
-
-4.2.c - For NOALBS to respond to our Chat commands we need to give access to a Twitch Account. Once you logged in with your preferred Account in Twitch click on this **[Link](https://twitchapps.com/tmi)**, then hit **Connect** and copy the **oauth:xxxxxxx** Code  
+4.2.c - For NOALBS to respond to our Chat commands we need to give access to a Twitch Account. Once you logged in with your preferred Account in Twitch, click on this **[Link](https://twitchapps.com/tmi)**, then hit **Connect** and copy the **oauth:xxxxxxx** Code  
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/6eac3092-a208-438e-ac08-c68faf69151c" height="300">
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/c52f6156-e52f-4ea7-a115-36d488648555" height="130">
@@ -249,9 +247,10 @@ Any normal PC or Laptop can be used, best cabled directly to your Home Internet 
 4.2.d - **Open** the **.env** File with a Text-Editor
  - Username of the used Account
  - replace the *oauth:YOUR_OAUTH_HERE* with your copied data
- - save and close the file
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/33dabd80-1a70-4ac1-8451-b942200767b0" height="40">
+
+ - save and close the file
 
 4.2.e - Download the File and replace it with your **config.json**  
 [config.json](config.json)  
@@ -278,7 +277,7 @@ Any normal PC or Laptop can be used, best cabled directly to your Home Internet 
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/0329e383-07f3-40e8-8f80-de3d0fa3391d" height="270">
 
-4.2.k - You can create a Shortcut by right-clicking the noalbs file and hit **Create Shortcut** and drag the Shortcut for example on Desktop for more  
+4.2.k - You can create a Shortcut by right-clicking the noalbs file and hit **Create Shortcut** and drag the Shortcut for example on Desktop for easier access  
 
 ---
 # 5 - Make OBS pretty
