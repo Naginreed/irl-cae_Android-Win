@@ -349,12 +349,13 @@ Either a Mobile WiFi Router or a Second Phone with Mobile Hotspot active.
 
 If for whatever reason the Relay or Home PC is not working you can easily switch back to direct Streaming in the IRL Pro App.  
 
-7.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**  
+8.a - Got to **Settings** > **Connections** and Switch **Belabox off** and **Twitch on**  
 <details>
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/452ea3a0-76e7-4cf1-8f16-4e9f531f2923" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/45b2d58a-e62e-426f-bc2c-e0af3e1d582b" height="600"> 
 </details>
-7.b - Go back to **Settings** then **Video**. Scroll down and turn **Bitrate matches resolution** back on and **Format** to Auto.  
+
+8.b - Go back to **Settings** then **Video**. Scroll down and turn **Bitrate matches resolution** back on and **Format** to Auto.  
 <details>
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/011c5d28-461d-4c5a-a0ff-9f09bcf24de6" height="600">
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/f2bbe20d-c1d8-408f-90c0-7e54a56b2936" height="600">
