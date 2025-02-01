@@ -87,7 +87,7 @@ This Guide describes a **Cheap and Easy** Solution for
 
 ---
 # 3 - Streaming Phone
-3.a - Open the **IRL Pro App** and go to **Gear** Symbol *(Settings)* on the top right  
+3.a - Open the **IRL Pro App** and go to **Gear** Symbol *(Settings)* on the top left  
 
 <img src="https://github.com/Naginreed/irl-cae_Android-Win/assets/71943093/626275d4-07ad-4d98-bc62-d89d06ec9624" width="600">
 
